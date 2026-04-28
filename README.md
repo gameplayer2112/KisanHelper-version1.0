@@ -24,6 +24,10 @@ future aspects:
 ├── jumping from command line interface(cli) to graphic user interface(gui)
 └── making it available for large number of users by maing user -friendly
 
+a tip
+pip install groq
+pip install requests
+python main.py
 
 
 
