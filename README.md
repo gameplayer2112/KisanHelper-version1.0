@@ -1,7 +1,7 @@
 # KisanHelper-version1.0
 
 a python package for helping indian farmers ,currently adding the first version
-integration of generative-ai (grok)api and rest-api to create a menu driven package
+integration of generative-ai (groq)api and rest-api to create a menu driven package
 
 
 KisanHelper/
