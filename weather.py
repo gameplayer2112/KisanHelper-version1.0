@@ -3,7 +3,7 @@ import intro
 import os
 from dotenv import load_dotenv
 load_dotenv()
-my_key='weather_key'
+my_key=os.getenv('weather_key')
 def weather(name):
     intro.introduce(name)
     city=input('enter your city:')
