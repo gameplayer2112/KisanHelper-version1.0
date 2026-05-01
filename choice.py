@@ -1,16 +1,17 @@
 def choicemaker():
     name=input('hi farmer ,enter your name:')
-    print('which feature you want to use?')
-    [print('-',end='') for x in range(0,29)]
-    print('\n')
-    print('1.crop recommentation')
-    print('2.farming essentials')
-    print('3.seed  price analyser')
-    print('4.weather forcast -5 days')
-    print('5.profit calculator')
-    print('6. for quit')
+    
     answer='0'
     while(answer.lower()!='6'):
+        print('which feature you want to use?')
+        [print('-',end='') for x in range(0,29)]
+        print('\n')
+        print('1.crop recommentation')
+        print('2.farming essentials')
+        print('3.seed  price analyser')
+        print('4.weather forcast -5 days')
+        print('5.profit calculator')
+        print('6. for quit')
         answer=input('enter your choice:')
         match int(answer):
             case 1:
