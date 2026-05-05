@@ -29,5 +29,6 @@ pip install groq
 pip install requests
 python main.py
 
-
+terminal version ppt-
+https://mypresentation123456789.my.canva.site/farmer-helping-system
 
