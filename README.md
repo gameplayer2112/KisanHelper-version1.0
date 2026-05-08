@@ -28,6 +28,7 @@ a tip
 pip install groq
 pip install requests
 python main.py
+<img width="686" height="522" alt="image" src="https://github.com/user-attachments/assets/755b42c1-4a2f-406e-9e6a-2d716acd3b6f" />
 
 
 
